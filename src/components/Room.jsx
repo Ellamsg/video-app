@@ -23,8 +23,8 @@ const Room =() =>{
         };
 
     return(
-        <div ref={meeting} className="bg-red p-[50px]">
-              Rooms
+        <div ref={meeting} className="bg-blue p-[50px]">
+              Rooms2
     
         </div>
     )
