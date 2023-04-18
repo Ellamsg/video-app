@@ -4,6 +4,7 @@ import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
 
 const Room =() =>{
      const {roomID} =useParams();
+     
      console.log(roomID);
         const meeting = async(element) =>{
             const appID = 1936147861;
@@ -23,7 +24,7 @@ const Room =() =>{
         };
 
     return(
-        <div ref={meeting} className="bg-blue p-[50px]">
+        <div ref={meeting}  className=" lg:pt-[0px] h-[100vh]">
               Rooms2
     
         </div>
