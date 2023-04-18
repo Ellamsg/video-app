@@ -19,7 +19,7 @@ letter-spacing: 0.04em;
     border: 2px solid red;
  }
  .cover{
-    background-image: url('image/mul.jpg');
+   
     object-fit: contain;
  }
  .blurs{

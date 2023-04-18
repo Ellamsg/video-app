@@ -10,7 +10,10 @@ const Home =() =>{
     navigate(`/room/${RoomCode}`);
  }
 return(
-    <div className="cover h-[100vh] flex justify-center">
+    <div style={{ 
+        backgroundImage: `url("image/mul.jpg")` 
+      }}
+    className="cover h-[100vh] flex justify-center">
         <div className="form lg:w-[50%] w-[90%] lg:p-6 p-3  py-6 m-auto h-[50%]">
         <form  action="" onSubmit={submitCode}
          className="flex flex-col items-center justify-center"
