@@ -24,7 +24,7 @@ const Room =() =>{
         };
 
     return(
-        <div ref={meeting}  className=" lg:pt-[0px] h-[100vh]">
+        <div ref={meeting}  className="m-auto lg:py-0 py-6  h-[100vh]">
               Rooms2
     
         </div>
