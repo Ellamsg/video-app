@@ -1,0 +1,21 @@
+
+
+
+.font-name{
+    font-family: 'Open Sans';
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 175%;
+letter-spacing: 0.04em;
+}
+.vertical{
+    text-orientation: mixed; writing-mode: vertical-lr;
+  
+ }
+
+ .border{
+ 
+    border: 2px solid red;
+ }
+ 
