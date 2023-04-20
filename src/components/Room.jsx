@@ -26,7 +26,7 @@ const Room =() =>{
 
     return(
         <div ref={meeting}  className="m-auto lg:py-0 py-6  h-[100vh]">
-              Rooms2
+          <p className="text-green font-bold text-2xl">See home to enter code</p>
     
         </div>
     )
