@@ -3,6 +3,7 @@ import {useParams} from "react-router-dom";
 import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
 
 const Room =() =>{
+    /*webtrc api and zego implimentation for the ui */
      const {roomID} =useParams();
      
      console.log(roomID);
