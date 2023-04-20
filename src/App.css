@@ -23,7 +23,7 @@ letter-spacing: 0.04em;
     object-fit: contain;
  }
  .blurs{
-    box-shadow: -1px 8px 25px 0px rgba(18,7,64,1);
+    box-shadow: -1px 8px 25px 0px rgb(5, 3, 12);
  }
  .form{
     backdrop-filter: blur(8px);

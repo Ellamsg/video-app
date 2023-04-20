@@ -9,7 +9,7 @@ export default function Nav() {
   ];
   let [open, setOpen] = useState(false);
   return (
-    <div className="md:p-2 blurs bg-black z-30 sticky lg:py-0 py-3  top-0 md:px-6">
+    <div className="md:p-2 blurs bg-[#0f172a] z-30 sticky lg:py-0 py-3  top-0 md:px-6">
         
       <div className=" sticky   top-0 left-0 md:p-0  lg:text-xl  text-[16px]">
         <div className="md:flex items-center md:py-4 justify-between lg:gap-6  ">
